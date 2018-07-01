@@ -7,6 +7,7 @@ import com.soecode.lyf.entity.Appointment;
 public interface AppointmentDao {
 
 	/**
+	 *更改后的版本
 	 * 插入预约图书记录
 	 * 
 	 * @param bookId
